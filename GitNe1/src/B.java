@@ -5,4 +5,8 @@ public class B {
 		System.out.println("HelloNE");
 	}
 
+	public void m1()
+	{
+		System.out.println("M1");
+	}
 }
